@@ -1,0 +1,4 @@
+﻿  lab5aSource.c
+d:\mine\haw labs\haw so labs\lab5\lab5\lab5asource.c(35): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\mine\haw labs\haw so labs\lab5\lab5\lab5asource.c(64): warning C4477: 'scanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'int *'
+  lab5.vcxproj -> D:\MINE\HAW LABS\HAW SO LABS\lab5\Debug\lab5a.exe

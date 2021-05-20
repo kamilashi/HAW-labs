@@ -1,0 +1,5 @@
+﻿  lab5bSource.c
+d:\mine\haw labs\haw so labs\lab5\lab5taskb\lab5bsource.c(40): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\mine\haw labs\haw so labs\lab5\lab5taskb\lab5bsource.c(68): warning C4477: 'scanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'int *'
+d:\mine\haw labs\haw so labs\lab5\lab5taskb\lab5bsource.c(40): warning C4047: 'initializing': 'geoCoord *' differs in levels of indirection from 'int'
+  lab5taskb.vcxproj -> D:\MINE\HAW LABS\HAW SO LABS\lab5\Debug\lab5taskb.exe
